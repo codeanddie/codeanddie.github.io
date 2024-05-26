@@ -1,0 +1,10 @@
+app-bg
+1920x1124
+
+
+footer-bg
+1920x645
+
+
+hero-bg
+1920x1087
